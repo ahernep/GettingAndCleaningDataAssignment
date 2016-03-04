@@ -9,7 +9,7 @@ Steps:
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 
-    Rad in the featuire and activity data and provide colume names. Create an integer vector of indices for the mean and standard features we wish to extract later.
+    Read in the feature and activity data and provide colume names. Create an integer vector of indices for the mean and standard features we wish to extract later.
 
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
