@@ -36,5 +36,6 @@
 - [57] fBodyGyro-std()-Y           fBodyGyro-std()-Z           fBodyAccMag-mean()          fBodyAccMag-std()          
 - [61] fBodyBodyAccJerkMag-mean()  fBodyBodyAccJerkMag-std()   fBodyBodyGyroMag-mean()     fBodyBodyGyroMag-std()     
 - [65] fBodyBodyGyroJerkMag-mean() fBodyBodyGyroJerkMag-std() 
+
 ##### Entire dataset is combined to create a tidy data set with all columns labeled correctly and written out as tidy-data.txt
 ##### The mean is then calculated grouped by subjectID and activity and written out as results.txt
